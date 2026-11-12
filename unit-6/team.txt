@@ -1,0 +1,3 @@
+Alex Morgan - frontend
+Sarah Johnson - Backend
+David williams - DevOps
